@@ -17,9 +17,9 @@
 7- copy .env file and put DB name in .env file
 
 
-Repository Design Pattern
-Implemented cache layer through decorator design pattern
-validation client side and server side 
-Filters
-sweet alerts
-Ajax 
+####Repository Design Pattern
+####Implemented cache layer through decorator design pattern
+####validation client side and server side 
+####Filters
+####sweet alerts
+####Ajax 
