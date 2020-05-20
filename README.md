@@ -12,7 +12,7 @@
 
 5- php artisan optimize
 
-6- create DB name 
+6- create DB or import it from DB directory
 
 7- copy .env file and put DB name in .env file
 
